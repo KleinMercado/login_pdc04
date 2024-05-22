@@ -138,7 +138,7 @@
         </div>
         <div class="form-floating">
           <input type="password" class="form-control" name="password" id="floatingInput" placeholder="name@example.com">
-          <label for="floatingInput">Email address</label>
+          <label for="floatingInput">Password</label>
         </div>
         <button class="btn btn-primary w-100 py-2" type="submit">Sign in</button>
         <p class="mt-5 mb-3 text-body-secondary">&copy; 2017–2024</p>
